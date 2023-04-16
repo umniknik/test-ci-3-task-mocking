@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c8acbsgvwxr4w0ai?svg=true)](https://ci.appveyor.com/project/umniknik/test-ci-3-task-mocking)
